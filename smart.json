@@ -1,0 +1,11 @@
+{
+    "name": "bootstrap-slider-touch",
+    "description": "bootstrap-slider-touch packaged for meteor",
+    "homepage": "https://github.com/Dsyko/meteor-bootstrap-slider-touch",
+    "author": "David Sykora",
+    "version": "2.0.0",
+    "git": "https://github.com/Dsyko/meteor-bootstrap-slider-touch.git",
+    "packages": {
+    	"modernizr-meteor": {}
+    }
+}
