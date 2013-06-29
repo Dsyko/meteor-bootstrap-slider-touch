@@ -6,6 +6,5 @@
     "version": "2.0.0",
     "git": "https://github.com/Dsyko/meteor-bootstrap-slider-touch.git",
     "packages": {
-    	"modernizr-meteor": {}
     }
 }

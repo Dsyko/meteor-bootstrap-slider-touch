@@ -6,6 +6,7 @@ Package.on_use(function (api) {
 	api.use('bootstrap', 'client');
 	api.use('jquery', 'client');
     api.add_files([
+    	'modernizr.js',
         'lib/js/bootstrap-slider.js',
         'lib/css/slider.css'
     ], 'client'
