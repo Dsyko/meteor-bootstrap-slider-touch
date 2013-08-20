@@ -10,7 +10,7 @@ A touch enabled version of Stefan Petre's [Bootstrap Slider][project-site] jQuer
   
 See the [Bootstrap Slider project][project-site] for complete documentation.
 
-Version 2.0.1
+Pushing tag to Version 2.0.1
 
 [project-site]: http://www.eyecon.ro/slider-for-twitter-bootstrap.htm
 [modernizr]: http://modernizr.com
